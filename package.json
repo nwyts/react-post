@@ -11,6 +11,7 @@
   "dependencies": {
     "@heroui/react": "^3.2.7",
     "@heroui/styles": "^3.2.7",
+    "@netlify/vite-plugin-react-router": "^4.0.0",
     "@react-router/fs-routes": "^8.5.1",
     "@react-router/node": "^8.5.1",
     "@react-router/serve": "^8.5.1",
